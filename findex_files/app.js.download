@@ -1,0 +1,26 @@
+let body = document.getElementById('bdy')
+
+
+let btn_red=()=>{
+    body.style.backgroundColor='red'
+}
+
+
+let btn_green=()=>{
+    body.style.backgroundColor='green'
+}
+
+
+let btn_blue=()=>{
+    body.style.backgroundColor='blue'
+}
+
+
+let btn_yellow=()=>{
+    body.style.backgroundColor='yellow'
+}
+
+
+let btn_pink=()=>{
+    body.style.backgroundColor='pink'
+}
